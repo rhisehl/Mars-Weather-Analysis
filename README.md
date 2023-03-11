@@ -15,7 +15,7 @@ The Mission to Mars table on Mars Temperature data was scrpated to gather the we
 
 Next, the data was input into a DataFrame for easier analysis.
 
-![image](https://user-images.githubusercontent.com/116215793/224502694-f6548f0a-0ee9-4432-8f17-19267798c5ae.png)
+![image](https://user-images.githubusercontent.com/116215793/224502886-e85d36ce-6b51-43fb-94b5-a437606ded47.png)
 
 
 ## Overall Analysis Summary
@@ -24,7 +24,7 @@ There are 12 months on Mars, just as there are 12 months on Earth. Throughout th
 
 Temperatures on Mars are the lowest in the third month and highest in the eighth month (with average minimum temperatures of -83.3 and -68.4, respectively). These temperatures are, as a whole, significantly lower than what is standard on Earth.
 
-![image](https://user-images.githubusercontent.com/116215793/224502798-c76752d1-52a1-4792-bc84-ede878ed8304.png)
+![image](https://user-images.githubusercontent.com/116215793/224502892-76a11600-21c5-441b-96d2-d9fa33206c35.png)
 
  Daily temperature minimums can be seen below for the length of the project. This information can also be used to estimate the length of a Martian year by calculating the peak-to-peak distance (approximately 675 Earth days).
  
