@@ -24,7 +24,7 @@ There are 12 months on Mars, just as there are 12 months on Earth. Throughout th
 
 Temperatures on Mars are the lowest in the third month and highest in the eighth month (with average minimum temperatures of -83.3 and -68.4, respectively). These temperatures are, as a whole, significantly lower than what is standard on Earth.
 
-![image](https://user-images.githubusercontent.com/116215793/224502892-76a11600-21c5-441b-96d2-d9fa33206c35.png)
+![image](https://user-images.githubusercontent.com/116215793/224502909-b3483a58-bad8-479a-a1e3-0df252a39088.png)
 
  Daily temperature minimums can be seen below for the length of the project. This information can also be used to estimate the length of a Martian year by calculating the peak-to-peak distance (approximately 675 Earth days).
  
