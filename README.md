@@ -30,7 +30,7 @@ Temperatures on Mars are the lowest in the third month and highest in the eighth
  
  ![image](https://user-images.githubusercontent.com/116215793/224502842-c4041e4d-7f04-4093-9213-f89a171b8f72.png)
 
-Atomsphereic pressure tends to be lowest in the sixth month, while it is highest in the nineth month (just one month after the highest temperatures of the year).
+Atomspheric pressure tends to be lowest in the sixth month, while it is highest in the nineth month (just one month after the highest temperatures of the year).
 
 ![image](https://user-images.githubusercontent.com/116215793/224502876-02da811c-4fe9-4eb1-9f8f-282b27644101.png)
 
