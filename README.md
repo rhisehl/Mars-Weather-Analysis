@@ -9,7 +9,7 @@ The Mars Planet Science webpage was scraped to gather a list of articles and the
 
 # Mars Weather Analysis
 
-The Mission to Mars table on Mars Temperature data was scrpated to gather the weather information.
+The Mission to Mars table on Mars Temperature data was scraped to gather the weather information.
 
 ![image](https://user-images.githubusercontent.com/116215793/224502660-e52ff293-184b-4883-818f-4cbd7f1a1ab0.png)
 
